@@ -13,7 +13,6 @@ This project aims to predict the survival of passengers on the Titanic using var
 
 ## Setup and Configuration
 Before running the notebook, ensure you have:
-*   **GitHub Personal Access Token (PAT):** Stored in Colab Secrets named `GITHUB_TOKEN` with notebook access enabled. This is used for syncing the notebook with GitHub.
 *   **Git Configuration:** Your GitHub username and email configured for Git commits.
 
 ## Data Loading and Initial Exploration
